@@ -22,13 +22,18 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/codeingman/)
 
 ---
 
-### 🧩 Activity & Problem Solving:
+### 📌 Activitys:
 
 - 🔗 My LeetCode Profile: [leetcode.com/u/codeingman](https://leetcode.com/u/codeingman/)
+
+<p align="center">
+  <a href="https://leetcode.com/u/codeingman/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://leetcode.com/u/codeingman/">
@@ -44,6 +49,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hamedrefaat1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamedrefaat1&theme=tokyonight" alt="Streak Stats" />
+</p>
+
+---
+
+### 🐍 My Contributions Snake:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hamedrefaat1/hamedrefaat1/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </p>
 
 ---
