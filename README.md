@@ -65,6 +65,8 @@
 
 
 ## 📫 Contact Me
+🚀 Let's connect and build something amazing together! Whether it's a project collaboration, job opportunity, or tech discussion - I'd love to hear from you!
+
 <p align="left">
   <a href="mailto:hamedrefaat10@gmail.com" target="_blank" style="margin-right: 15px;">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="48" height="48" alt="Gmail" />
