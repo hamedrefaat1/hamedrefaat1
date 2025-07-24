@@ -67,27 +67,18 @@
 
 ---
 
-## 🌟 Featured Projects:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamedrefaat1&repo=flutter-portfolio&theme=tokyonight&hide_border=true)](https://github.com/hamedrefaat1/flutter-portfolio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamedrefaat1&repo=mobile-app-project&theme=tokyonight&hide_border=true)](https://github.com/hamedrefaat1/mobile-app-project)
 
----
+## 📫 Contact Me
 
-## 📈 Profile Views & Followers:
-
-![Profile Views](https://komarev.com/ghpvc/?username=hamedrefaat1&color=brightgreen&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/hamedrefaat1?label=Followers&style=for-the-badge&color=blue)](https://github.com/hamedrefaat1)
-
----
-
-## 📫 Contact Me:
-
-💬 **Have an idea, a freelance project, or want to collaborate on something cool?**  
-**Feel free to reach out — I'm open to exciting opportunities and tech challenges!**
-
-<p align="center">
-  <a href="mailto:hamedrefaat.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/hamedrefaat1"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://github.com/hamedrefaat1"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/hamedrefaat1/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hamedrefaat430@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/+201012345678" target="blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
