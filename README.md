@@ -72,13 +72,8 @@
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hamedrefaat1/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hamedrefaat430@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/+201012345678" target="blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+  <a href="mailto:hamedrefaat.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/hamedrefaat1"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/hamedrefaat1"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://wa.me/+201012345678"><img src="https://skillicons.dev/icons?i=whatsapp" alt="Whatsapp" /></a>
 </p>
