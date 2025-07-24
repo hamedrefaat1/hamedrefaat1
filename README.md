@@ -67,11 +67,17 @@
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="mailto:hamedrefaat.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/hamedrefaat1"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://github.com/hamedrefaat1"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-  <a href="https://wa.me/+201012345678">
-    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" height="60" width="60"/>
+  <a href="mailto:hamedrefaat.dev@gmail.com" target="_blank" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" height="32" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/hamedrefaat1" target="_blank" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/hamedrefaat1" target="_blank" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub" />
+  </a>
+  <a href="https://wa.me/+201012345678" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="32" height="32" alt="WhatsApp" />
   </a>
 </p>
 
