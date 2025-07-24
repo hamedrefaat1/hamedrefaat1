@@ -25,14 +25,12 @@
 
 ---
 
-### 📌 Activitys:
+### 📌 Activities:
 
-- 🔗 My LeetCode Profile: [leetcode.com/u/codeingman](https://leetcode.com/u/codeingman/)
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)
 
-<p align="center">
-  <a href="https://leetcode.com/u/codeingman/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
-  </a>
+<p>
+  🔗 My LeetCode Profile: [leetcode.com/u/codeingman](https://leetcode.com/u/codeingman/)
 </p>
 
 <p align="center">
@@ -53,10 +51,10 @@
 
 ---
 
-### 🐍 My Contributions Snake:
+### 🐍 GitHub Contribution Snake:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hamedrefaat1/hamedrefaat1/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+  <img src="https://github.com/hamedrefaat1/hamedrefaat1/blob/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </p>
 
 ---
@@ -65,5 +63,4 @@
 
 <p align="center">
   <a href="mailto:hamedrefaat.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/hamedrefaat1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+  <a href="https://www.linkedin.com/in/hamedrefaat1"><img src="https://img.shields.io/badge/L
