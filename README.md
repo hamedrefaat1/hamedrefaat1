@@ -71,7 +71,7 @@
   <a href="https://www.linkedin.com/in/hamedrefaat1"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
   <a href="https://github.com/hamedrefaat1"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
   <a href="https://wa.me/+201012345678">
-    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" height="32" width="32"/>
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" height="32" width="40"/>
   </a>
 </p>
 
