@@ -67,7 +67,7 @@
 ## 📫 Contact Me
 <p align="left">
   <a href="mailto:hamedrefaat.dev@gmail.com" target="_blank" style="margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" alt="Gmail" />
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="48" height="48" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/hamedrefaat1" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" />
