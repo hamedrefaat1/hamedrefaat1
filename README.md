@@ -22,15 +22,18 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/codeingman/)
 
 ---
 
 ### 🧩 Activity & Problem Solving:
 
-- 🔗 My LeetCode Profile: [leetcode.com/u/codeingman](https://leetcode.com/u/codeingman)
+- 🔗 My LeetCode Profile: [leetcode.com/u/codeingman](https://leetcode.com/u/codeingman/)
 
 <p align="center">
-  <img src="https://leetcode-card.vercel.app/codeingman?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/codeingman/">
+    <img src="https://leetcard.jacoblin.cool/codeingman?ext=contest&theme=dark" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
