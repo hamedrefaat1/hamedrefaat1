@@ -25,6 +25,16 @@
 
 ---
 
+### 🧩 Activity & Problem Solving:
+
+- 🔗 My LeetCode Profile: [leetcode.com/u/codeingman](https://leetcode.com/u/codeingman)
+
+<p align="center">
+  <img src="https://leetcode-card.vercel.app/codeingman?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
+</p>
+
+---
+
 ### 📊 GitHub Stats:
 
 <p align="center">
