@@ -66,13 +66,13 @@
 
 ## 📫 Contact Me
 <p align="left">
-  <a href="mailto:hamedrefaat.dev@gmail.com" target="_blank" style="margin-right: 10px;">
+  <a href="mailto:hamedrefaat.dev@gmail.com" target="_blank" style="margin-right: 15px;">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="48" height="48" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/hamedrefaat1" target="_blank" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/hamedrefaat1" target="_blank" style="margin-right: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/hamedrefaat1" target="_blank" style="margin-right: 10px;">
+  <a href="https://github.com/hamedrefaat1" target="_blank" style="margin-right: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
   </a>
   <a href="https://wa.me/+201012345678" target="_blank">
