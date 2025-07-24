@@ -61,11 +61,6 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake:
-
-![Snake animation](https://raw.githubusercontent.com/hamedrefaat1/hamedrefaat1/output/github-contribution-grid-snake-dark.svg)
-
----
 
 
 
