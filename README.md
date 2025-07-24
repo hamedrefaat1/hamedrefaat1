@@ -84,27 +84,8 @@
 
 ---
 
-## 🌟 Featured Projects
 
-<div align="center">
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamedrefaat1&repo=flutter-portfolio&theme=tokyonight&hide_border=true)](https://github.com/hamedrefaat1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamedrefaat1&repo=mobile-app-project&theme=tokyonight&hide_border=true)](https://github.com/hamedrefaat1)
 
-</div>
-
----
-
-## 📈 Profile Views & Followers
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=hamedrefaat1&color=brightgreen&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/hamedrefaat1?label=Followers&style=for-the-badge&color=blue)](https://github.com/hamedrefaat1)
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
@@ -112,7 +93,6 @@
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamedrefaat.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamedrefaat1)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/codeingman)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamedrefaat1)
 
 </div>
