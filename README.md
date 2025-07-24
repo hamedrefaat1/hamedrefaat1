@@ -16,16 +16,23 @@
 ## 🚀 Tech Stack:
 
 **Mobile Development:**  
-<img src="https://skillicons.dev/icons?i=dart,flutter,firebase" />
+<a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" /></a>
+<a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" /></a>
+<a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
 
 **Programming Languages:**  
-<img src="https://skillicons.dev/icons?i=cpp,python" />
+<a href="https://en.cppreference.com/"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
 
 **Operating Systems:**  
-<img src="https://skillicons.dev/icons?i=windows,linux" />
+<a href="https://www.microsoft.com/en-us/windows"><img src="https://skillicons.dev/icons?i=windows" /></a>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>
 
 **Development Tools:**  
-<img src="https://skillicons.dev/icons?i=vscode,github,git,androidstudio" />
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
+<a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" /></a>
 
 ---
 
@@ -59,8 +66,8 @@
 
 ## 🌟 Featured Projects:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamedrefaat1&repo=flutter-portfolio&theme=tokyonight&hide_border=true)](https://github.com/hamedrefaat1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamedrefaat1&repo=mobile-app-project&theme=tokyonight&hide_border=true)](https://github.com/hamedrefaat1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamedrefaat1&repo=flutter-portfolio&theme=tokyonight&hide_border=true)](https://github.com/hamedrefaat1/flutter-portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamedrefaat1&repo=mobile-app-project&theme=tokyonight&hide_border=true)](https://github.com/hamedrefaat1/mobile-app-project)
 
 ---
 
@@ -73,16 +80,11 @@
 
 ## 📫 Contact Me:
 
-<img src="https://skillicons.dev/icons?i=gmail" /> <img src="https://skillicons.dev/icons?i=linkedin" /> <img src="https://skillicons.dev/icons?i=github" />
+💬 **Have an idea, a freelance project, or want to collaborate on something cool?**  
+**Feel free to reach out — I'm open to exciting opportunities and tech challenges!**
 
-**Links:**  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamedrefaat.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamedrefaat1)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamedrefaat1)
-
----
-
-### 💭 Quote
-*"Code is like humor. When you have to explain it, it's bad."*
-
-**⭐ From [hamedrefaat1](https://github.com/hamedrefaat1) - Building the future, one app at a time**
+<p align="center">
+  <a href="mailto:hamedrefaat.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/hamedrefaat1"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/hamedrefaat1"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+</p>
