@@ -6,26 +6,13 @@
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me:
 
-```typescript
-const hamedRefaat = {
-  name: "Hamed Refaat",
-  role: "Flutter Developer",
-  location: "Egypt",
-  focus: ["Mobile Development", "Cross-Platform Apps", "Problem Solving"],
-  experience: {
-    mobile: ["Flutter", "Dart", "Firebase"],
-    programming: ["C++", "Python"],
-    platforms: ["Windows", "Linux", "Android", "iOS"]
-  },
-  achievements: {
-    leetcodeSolved: "300+ Problems",
-    githubProjects: "Multiple Flutter Apps",
-    passion: "Building impactful applications"
-  }
-};
-```
+- 🎯 I'm a **Flutter Developer** with strong knowledge in **Dart**, **Firebase**, and cross-platform mobile app development.
+- 💻 I also have experience in **C++**, **Python**, and love building clean, scalable code.
+- 🧠 Solved **~300 algorithm problems** on **LeetCode** – I enjoy tackling challenging coding tasks.
+- 🚀 Always eager to learn new technologies and build impactful applications.
+- 📂 I have several public **Flutter projects** on my GitHub.
 
 ---
 
