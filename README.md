@@ -1,7 +1,7 @@
 # Hi 👋, I'm Hamed Refaat
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/codeingman?ext=contest&theme=dark&font=Nunito&cache=16000" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&vCenter=true&width=600&lines=Flutter+Developer+%7C+Problem+Solver;Algorithm+Enthusiast+%7C+300%2B+Problems+Solved;Building+Scalable+%26+Clean+Code" alt="Typing SVG" />
 </p>
 
 ---
