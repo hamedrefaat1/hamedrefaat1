@@ -45,7 +45,7 @@
 [![LeetCode Profile](https://img.shields.io/badge/My_Profile-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/codeingman)
 
 <a href="https://leetcode.com/u/codeingman/">
-  <img src="https://leetcard.jacoblin.cool/codeingman?ext=contest&theme=dark&updated=1" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/codeingman?ext=contest&theme=dark&font=Nunito&cache=17000" alt="LeetCode Stats" />
 </a>
 
 ---
