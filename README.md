@@ -18,24 +18,26 @@
 
 ## 🚀 Tech Stack:
 
-**Mobile Development:**  
+### 📱 Mobile Development
 <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" /></a>
 <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" /></a>
 <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
 
-**Programming Languages:**  
+### 🌐 Web Development
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" title="HTML5"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" title="CSS3"/></a>
+
+### 💻 Programming Languages 
 <a href="https://en.cppreference.com/"><img src="https://skillicons.dev/icons?i=cpp" /></a>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
 
-**Operating Systems:**  
-<a href="https://www.microsoft.com/en-us/windows"><img src="https://skillicons.dev/icons?i=windows" /></a>
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>
-
-**Development Tools:**  
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
-<a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" /></a>
+### 🔧 Tools & Environment
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" title="Git"/></a>&nbsp;
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" title="GitHub"/></a>&nbsp;
+<a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio"/></a>&nbsp;
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/></a>&nbsp;
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" title="Linux"/></a>&nbsp;
+<a href="https://www.microsoft.com/en-us/windows"><img src="https://skillicons.dev/icons?i=windows" title="Windows"/></a>
 
 ---
 
