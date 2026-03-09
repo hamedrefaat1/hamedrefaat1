@@ -1,15 +1,14 @@
 # Hi 👋, I'm Hamed Refaat
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&vCenter=true&width=600&lines=Flutter+Developer+%7C+Problem+Solver;Algorithm+Enthusiast+%7C+600%2B+Problems+Solved;Building+Scalable+%26+Clean+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&vCenter=true&width=600&lines=Flutter+Developer+%7C+Problem+Solver;Algorithm+Enthusiast+%7C+300%2B+Problems+Solved;Building+Scalable+%26+Clean+Code;HTML+%26+CSS+%7C+Web+Foundations" alt="Typing SVG" />
 </p>
 
 ---
 
-
 ## 👨‍💻 About Me:
 - 🎯 I'm a **Flutter Developer** with strong knowledge in **Dart**, **Firebase**, and cross-platform mobile app development.
-- 💻 I also have experience in **C++**, **Python**, and love building clean, scalable code.  
+- 💻 I also have experience in **C++**, **Python**, **HTML**, and **CSS** — and love building clean, scalable code.
 - 🧠 Solved **~300 algorithm problems** on **LeetCode** – I enjoy tackling challenging coding tasks.
 - 🚀 Always eager to learn new technologies and build impactful applications.
 - 📂 I have several public **Flutter projects** on my GitHub.
@@ -18,26 +17,28 @@
 
 ## 🚀 Tech Stack:
 
-### 📱 Mobile Development
-<a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" /></a>
+**📱 Mobile Development**<br/>
 <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" /></a>
+<a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" /></a>
 <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
 
-### 🌐 Web Development
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" title="HTML5"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" title="CSS3"/></a>
+**🌐 Web Development**<br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
 
-### 💻 Programming Languages 
+**💻 Programming Languages**<br/>
 <a href="https://en.cppreference.com/"><img src="https://skillicons.dev/icons?i=cpp" /></a>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
 
-### 🔧 Tools & Environment
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" title="Git"/></a>&nbsp;
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" title="GitHub"/></a>&nbsp;
-<a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio"/></a>&nbsp;
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/></a>&nbsp;
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" title="Linux"/></a>&nbsp;
-<a href="https://www.microsoft.com/en-us/windows"><img src="https://skillicons.dev/icons?i=windows" title="Windows"/></a>
+**🔧 Tools & Environment**<br/>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+
+**🖥️ Operating Systems**<br/>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>
+<a href="https://www.microsoft.com/en-us/windows"><img src="https://skillicons.dev/icons?i=windows" /></a>
 
 ---
 
@@ -63,9 +64,6 @@
 
 ---
 
-
-
-
 ## 📫 Contact Me
 🚀 Let's connect and build something amazing together! Whether it's a project collaboration, job opportunity, or tech discussion - I'd love to hear from you!
 
@@ -83,4 +81,3 @@
     <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="48" height="48" alt="WhatsApp" />
   </a>
 </p>
-
